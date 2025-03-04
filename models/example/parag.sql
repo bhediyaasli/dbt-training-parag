@@ -1,0 +1,1 @@
+select 'Parag' as Name, 'Self' as Company
