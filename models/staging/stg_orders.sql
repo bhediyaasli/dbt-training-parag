@@ -17,6 +17,7 @@ select
     c.customername,
     c.segment,
     c.country,
+    c.customerid,
     -- from raw products
     p.category,
     p.productname,
